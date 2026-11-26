@@ -1,0 +1,6 @@
+{
+  "name": "Báo cáo Nguồn lực & Nhân lực 168 Trạm Y tế TP.HCM",
+  "description": "Bảng điều khiển trực quan hóa nguồn lực đầu tư (gần 6.200 tỷ xây mới, 1.128 tỷ thiết bị/sửa chữa) và phân bố bác sĩ tại 168 Trạm Y tế cơ sở TP.HCM kèm bản đồ nhiệt và biểu đồ Chart.js.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
